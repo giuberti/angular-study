@@ -1,0 +1,11 @@
+{
+  "id": 99,
+  "name": "Course for Test",
+  "description": "Fake course for Cypress auto test",
+  "imageUrl": "",
+  "price": 123.45,
+  "code": "TST-000",
+  "duration": 60,
+  "rating": "2",
+  "releaseDate": "January 1 2021"
+}
